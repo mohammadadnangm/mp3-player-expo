@@ -28,6 +28,7 @@ function HomeScreen({ navigation }) {
     </View>
   );
 }
+
 const Stack = createNativeStackNavigator();
 
 function App() {
